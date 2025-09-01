@@ -238,7 +238,7 @@ npm run build
 - React.js team for the amazing framework
 - Tailwind CSS for the utility-first approach
 - Express.js community for the robust backend framework
-- SQLite for the lightweight database solution
+- SQLite for the lightweight database solution.
 
 ---
 
